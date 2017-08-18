@@ -1,0 +1,21 @@
+{
+  "name": "Selfbot-1",
+  "description": "Hi",
+  "scripts": {
+  },
+  "env": {
+    "TOKEN": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
